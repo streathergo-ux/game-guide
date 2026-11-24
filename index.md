@@ -13,7 +13,7 @@ next: false
 
 <a href="/games/assassin/">
   <strong>刺客養成</strong>
-  <span>轉職、技能點法、養成優先順序</span>
+  <span>武器覺醒順序、轉職、技能點法</span>
   <em>進入</em>
 </a>
 

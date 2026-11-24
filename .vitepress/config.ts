@@ -48,6 +48,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '目錄', link: '/games/assassin/' },
+          { text: '武器覺醒順序', link: '/games/assassin/awaken' },
           { text: '轉職', link: '/games/assassin/job' },
           { text: '技能點法', link: '/games/assassin/skills' },
           { text: '養成優先順序', link: '/games/assassin/growth' },

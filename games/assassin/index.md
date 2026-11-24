@@ -11,6 +11,11 @@ aside: false
 
 <div class="chapters">
 
+<a href="./awaken">
+  <strong>武器覺醒順序</strong>
+  <span>防具和武器交替做，最後才到創造 3 覺。</span>
+</a>
+
 <a href="./job">
   <strong>轉職</strong>
   <span>副本向或對戰向先選一個，再點技能。</span>
