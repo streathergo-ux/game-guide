@@ -1,6 +1,6 @@
-# 刺客養成
+# 遊戲攻略
 
-刺客的轉職、技能點法與養成優先順序。
+多款遊戲的攻略站。每款遊戲一個目錄，目前有刺客養成。
 
 ## 本機預覽
 
@@ -16,11 +16,3 @@ npm run build
 ```
 
 產出在 `.vitepress/dist`。
-
-## Cloudflare Pages
-
-| 項目 | 值 |
-| --- | --- |
-| Production branch | `main` |
-| Build command | `npx vitepress build` |
-| Build output directory | `.vitepress/dist` |
